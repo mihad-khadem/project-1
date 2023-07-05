@@ -1,0 +1,28 @@
+.d1{
+    margin: auto;
+    text-align: center;
+    background-color: aquamarine;
+    width: 60%;
+    border-radius: 10px;
+    justify-content: center;
+    
+}
+
+.d2{
+    margin: auto;
+    background-color: aquamarine;
+    text-align: center;
+    width: 60%;
+    border-radius: 10px;
+    height: 35px;
+    align-items: center;
+}
+.d3{
+    margin: auto;
+    background-color: aquamarine;
+    text-align: center;
+    width: 60%;
+    border-radius: 10px;
+    height: 120px;
+    align-items: center;
+}
